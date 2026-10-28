@@ -1,0 +1,2 @@
+The source repository had no license file at install time.
+Source repo: youngfujun/stata-graphics-skill

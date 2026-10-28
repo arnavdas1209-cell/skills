@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="726" height="146" viewBox="0 0 726 146" role="img" aria-labelledby="title desc">
+  <title id="title">论文启发案例图制图 Skill</title>
+  <desc id="desc">A README preview card for the inspiration-case-figure-guide skill.</desc>
+  <rect width="726" height="146" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="725" height="145" fill="none" stroke="#c8d6e5"/>
+  <text x="29" y="33" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="26" font-weight="700" fill="#111111">论文启发案例图制图 Skill</text>
+  <line x1="29" y1="45" x2="697" y2="45" stroke="#d9e2ec"/>
+  <rect x="29" y="62" width="190" height="20" rx="3" fill="#f6f8fa"/>
+  <text x="33" y="76" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#111111">inspiration-case-figure-guide</text>
+  <text x="229" y="76" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#111111">用于帮助研究者为论文生成 inspiration figure、motivation figure、case figure、</text>
+  <text x="29" y="98" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#111111">problem teaser、failure case、before/after contrast 和 observation-to-hypothesis diagram 等启发案例图。</text>
+  <text x="29" y="120" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#111111">它适合把论文 PDF、摘要、引言、失败案例、方法动机或草稿想法转化为可比较的视觉叙事方案、候选图、修改建议、caption、</text>
+  <text x="29" y="137" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#111111">legend 和正文中的图说明。</text>
+</svg>

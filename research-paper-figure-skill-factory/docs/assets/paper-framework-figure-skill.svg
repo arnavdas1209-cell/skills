@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="726" height="146" viewBox="0 0 726 146" role="img" aria-labelledby="title desc">
+  <title id="title">论文框架图制图 Skill</title>
+  <desc id="desc">A README preview card for the paper-framework-figure-studio-pro skill.</desc>
+  <rect width="726" height="146" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="725" height="145" fill="none" stroke="#c8d6e5"/>
+  <text x="29" y="50" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="26" font-weight="700" fill="#111111">论文框架图制图 Skill</text>
+  <line x1="29" y1="61" x2="697" y2="61" stroke="#d9e2ec"/>
+  <rect x="29" y="78" width="211" height="20" rx="3" fill="#f6f8fa"/>
+  <text x="33" y="92" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#111111">paper-framework-figure-studio-pro</text>
+  <text x="249" y="92" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#111111">用于帮助研究者为论文生成 framework diagram、method diagram、pipeline</text>
+  <text x="29" y="114" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#111111">diagram、architecture diagram、agent workflow 和 mechanism diagram 等框架图。它适合把论文 PDF、摘要、方法</text>
+  <text x="29" y="132" font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#111111">说明或草稿转化为可比较的制图方案、候选图、修改建议、caption、legend 和正文中的图说明。</text>
+</svg>

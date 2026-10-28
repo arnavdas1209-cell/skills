@@ -1,0 +1,34 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# PDF output (users generate their own)
+*.pdf
+
+# macOS
+.DS_Store
+
+# User config (example files only committed)
+config/*.yaml
+!config/*.example.yaml
+
+# Private assets (textbook, teacher PPT, etc.)
+private_assets/
+
+# Build script artifacts
+scripts/*.pyc
+scripts/__pycache__/
+
+# Editor
+*.swp
+*.swo
+*~
